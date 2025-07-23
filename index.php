@@ -14,7 +14,7 @@
         <br>
         <br>
     <div>
-        <h1 class="about">Immerse yourself in the artistry of our kitchen, where each dish is meticulously crafted by our passionate chefs. We source the finest ingredients, handpicked from local purveyors and global markets, ensuring that every bite ignites a culinary journey of delight.</h1>
+        <h1 class="about"> Immerse yourself in the artistry of our kitchen, where each dish is meticulously crafted by our passionate chefs. We source the finest ingredients, handpicked from local purveyors and global markets, ensuring that every bite ignites a culinary journey of delight.</h1>
     </div>
     </div>
 </section>
